@@ -2,7 +2,7 @@
 categories: learning 
 ---
 
-Thanks to Aurelien Geron, I figured, the reason for my life satisfaction or the lack of it. 
+Thanks to [Aurelien Geron](https://github.com/ageron), I figured, the reason for my life satisfaction or the lack of it. 
 
 ```python
 import pandas as pd
