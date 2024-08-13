@@ -21,7 +21,7 @@ Bakain | | |
 Bargad | 
 Barna  | Shady site
 Basa | 
-Bel | 
+Bel | | | The large fruit contain a pulp that is valued for its medicinal uses.
 Ber | | | The edible fruits are a rich source of Vitamin C
 Bhirra | 
 Bilangada | | | The seeds of its edible, red fruit are dispersed by birds
