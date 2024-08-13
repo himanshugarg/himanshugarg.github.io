@@ -9,28 +9,28 @@ Aamti |
 Akashneem | 
 Amaltaas | 
 Amda | | | Mango like fruit which is used in culinary preparations
-Amla | 
+Amla | | | famous for its medicinal value
 Anjan | 
 Anjeeri | 
 Arjun | 
 Arni | 
 Babool | 
-Badhal | 
+Badhal | | | related to jack-fruit but its spiky orange fruit is considerably smaller
 Baheda | | | The fruit is part of Triphala
-Bakain | 
+Bakain | | | 
 Bargad | 
 Barna  | Shady site
 Basa | 
 Bel | 
-Ber | 
+Ber | | | The edible fruits are a rich source of Vitamin C
 Bhirra | 
-Bilangada | 
+Bilangada | | | The seeds of its edible, red fruit are dispersed by birds
 Bilatri | 
-Bilsa | 
+Bilsa | | | You will not see the fruits as there are no female trees in Delhi
 Bistendu | 
 Chakwa | 
 Chamrod | 
-Chudel Papdi | 
+Chudel Papdi | | | flat, papery fruit in large numbers that rustle in the wind
 ChukrassiD | 
 ahia | 
 Dahi-Palash | 
@@ -49,34 +49,34 @@ Harshingar | Tolerant of moderate shade
 Hingot | | | Fruit is eaten by nilgai, jackals and porcupines
 Imli |  | | The tangy fruits of this tree are an integral part of Indian Cuisine
 Jadi | 
-Jamun | 
+Jamun |  | | edible purple fruit, rich in Vitamin A and C and recommended to control diabetes
 Jhau | 
 Jhinjheri | 
 Kaari | | | Green to Purple edible fruit
 Kahnar | 
 Kaim | 
 Kair | 
-Kaitthh | 
+Kaitthh | | | Hard fruit similar to appearance in bel with an edible sweet and sour pulp
 Kamala | Withstands shade well | | It is best known for the dye derived from its bright red fruit (only on female trees)
 Kaniar | 
 Kankera | 
 Karanj | 
-Kasai | 
-Kotul | 
+Kasai | | | Pea-sized fruit are a magnet for birds especially green pigeons 
+Katul | | | resemble guava when ripe. THese fruit are cooked as a vegetable in unripe form, and are widely used in Ayurveda
 Kutumbar | 
-Khabar | 
+Khabar | | | Pale yellow, edible fruit that are a rich source of calcium
 Khair | 
 Khajoori | 
 Khejdi | 
-Khirk | 
-Khirni | 
+Khirk | | | Tiny and inconspicuous
+Khirni | | | Fruiting tree belonging to the chikoo family
 Kosam | 
 Krishna Sirish | 
 Kuda | Tolerates Shade | 
 Kulu | | Fast Seed Germination | 
 Kummatth | 
 Lasuda | 
-Mahua | 
+Mahua | | | The fruit yield an oil used for cooking and lamp-oil
 Marodphali | | | The fruit is cylindrical and spirally twisted giving it the name 'screw tree'
 Medsinghi | 
 Millettia | 
@@ -96,7 +96,7 @@ Semal | | Fast Seed Germination |
 Shishum | 
 Siras | 
 Sona Pakhad | 
-Sonjna | 
+Sonjna | | | not consumed as they are bitter 
 Thhor | 
 Tinsa | 
 Toot | 
