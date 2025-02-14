@@ -15,10 +15,10 @@ class Less:
     def add(self, num: int) -> None:
         self.nums.append(num)
     
-    def __hash__(self):
+    def __hash__(self):  # <<<<<<<<========
         return hash(len(self.nums))
 
-    @cache
+    @cache               # <<<<<<<<========
     def get(self, k: int) -> int:
         return list(itertools.accumulate(self.nums[-1*k:], operator.mul))[-1]
 ```
