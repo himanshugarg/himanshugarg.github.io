@@ -4,6 +4,4 @@
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-  
-  <li> </li>
 </ul>
