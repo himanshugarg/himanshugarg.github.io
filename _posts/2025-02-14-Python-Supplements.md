@@ -3,7 +3,7 @@ categories: python, performance
 ---
 ![Iodine Pills](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Iodine_pills.jpg/1280px-Iodine_pills.jpg)
 Image Courtesy: Wikipedia
-# `@cache` (with `__hash__`)
+# `@cache`
 [`@cache`](https://docs.python.org/3/library/functools.html) turned out a superpower, to get that TLE code to pass. Only had to add a [`__hash__`](https://docs.python.org/3.9/reference/datamodel.html#object.__hash__) for correct cache lookups. Without it, it looked like an `Unhashable type`.
 
 ```python
