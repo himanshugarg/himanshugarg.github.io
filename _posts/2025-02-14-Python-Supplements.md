@@ -1,7 +1,5 @@
 ---
-categories: 
-  -- python
-  -- performance
+categories: python
 ---
 ![Iodine Pills](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Iodine_pills.jpg/1280px-Iodine_pills.jpg)
 Image Courtesy: Wikipedia
