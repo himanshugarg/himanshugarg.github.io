@@ -19,7 +19,9 @@ model.fit(lifesat[["GDP per capita (USD)"]].values,
 print(model.predict([[9183]])) # prints [[4.37155579]]
 ```
 
-Here is the dataset, just so we know where we stand:
+Here is the dataset:
+
+
 |index|Country|GDP per capita \(USD\)|Life satisfaction|
 |---|---|---|---|
 |0|Russia|26456\.3879381321|5\.8|
