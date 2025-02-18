@@ -53,6 +53,7 @@ response = get_completion(prompt)
 
 print(response)
 ```
+
   </td>
   <td>
 
@@ -103,6 +104,7 @@ customer_response = llm.invoke(customer_messages)
 
 print(customer_response)
 ```
+
   </td>
   </tr>
   </table>
