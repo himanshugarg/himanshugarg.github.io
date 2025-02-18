@@ -10,7 +10,7 @@ categories: genai
   <tr>
   <td>
 
-```python
+<pre>
 import os
 from openai import OpenAI
 
@@ -52,12 +52,12 @@ print(prompt)
 response = get_completion(prompt)
 
 print(response)
-```
+</pre>
 
   </td>
   <td>
+<pre>
 
-```python
   from langchain_openai import ChatOpenAI
 
 # To control the randomness and creativity of the generated
@@ -103,7 +103,7 @@ print(customer_messages)
 customer_response = llm.invoke(customer_messages)
 
 print(customer_response)
-```
+</pre>
 
   </td>
   </tr>
