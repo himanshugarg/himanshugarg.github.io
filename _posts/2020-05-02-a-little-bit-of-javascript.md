@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 lang: javascript
 title: थोड़ी सी जावास्क्रिप्ट
 ---

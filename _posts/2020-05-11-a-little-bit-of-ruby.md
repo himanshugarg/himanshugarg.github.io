@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 lang: ruby
 title: थोड़ी सी रूबी
 ---
